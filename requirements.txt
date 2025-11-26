@@ -1,0 +1,6 @@
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+PyQt5==5.15.10
+numpy==1.24.3
+pywin32==306
+pillow==10.1.0
