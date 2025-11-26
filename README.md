@@ -1,4 +1,4 @@
-# 🎮 Monster Detector - Tibia Bot
+# 🎮 Monster Detector
 
 Sistema de detecção de monstros em tempo real para Tibia usando visão computacional.
 
